@@ -2,7 +2,7 @@
 
 ## What this script does
 
-Deinterlace footage from a Camcorder and upscale it to a 1080p 4:3 format all videos in a folder.
+Deinterlace footage from an Immersion RC PowerPlay and upscale it to a 1080p 4:3 format for all videos in a folder.
 
 ## To get the script running
 
