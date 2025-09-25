@@ -4,6 +4,10 @@
 
 Deinterlace footage from an Immersion RC PowerPlay and upscale it to a 1080p 4:3 format for all videos in a folder.
 
+The PowerPlay will record footage in a 4:3 aspect ration but stretched to wide screen which makes the footage look a little funky. You could import this into Adobe Premier or Final Cut and fix that in there but that involves a lot of manual steps.
+
+This script speeds up that process.
+
 ## To get the script running
 
 1. You will need to have [ffmpeg](https://ffmpeg.org/) downloaded to your machine for this to work
